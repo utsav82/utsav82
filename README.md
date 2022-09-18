@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utsav82
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react and node.js
+- 🌱 I’m currently learning react and flask
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me @Yadavutsav3
 

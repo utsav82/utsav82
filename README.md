@@ -1,5 +1,5 @@
 
-[![@utsav82's Holopin board](https://holopin.io/api/user/board?user=utsav82)](https://holopin.io/@utsav82)
+![@utsav82's Holopin board](https://e0.pxfuel.com/wallpapers/597/486/desktop-wallpaper-w-anime-thread-jojo-minimalist.jpg))
 
 - 👋 Hi, I’m @utsav82
 - 👀 I’m interested in web development and machine learning

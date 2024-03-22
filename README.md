@@ -1,5 +1,5 @@
 
-![@utsav82's Holopin board](https://e0.pxfuel.com/wallpapers/597/486/desktop-wallpaper-w-anime-thread-jojo-minimalist.jpg))
+<img src="https://e0.pxfuel.com/wallpapers/597/486/desktop-wallpaper-w-anime-thread-jojo-minimalist.jpg" alt="banner" width="800" height="500"/>
 
 - 👋 Hi, I’m @utsav82
 - 👀 I’m interested in web development and machine learning

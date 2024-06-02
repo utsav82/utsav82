@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @utsav82
 - 👀 I’m interested in web development and competitive programming.
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently looking for work experience
 - 📫 Reach me at @Yadavutsav3
 
 https://utsav-yadav.vercel.app/

@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @utsav82
-- 👀 I’m interested in web development and competitive programming.
-- 🌱 I’m currently looking for work experience
-- 📫 Reach me at @Yadavutsav3
+- 👀 I’m interested in backend development and competitive programming.
+- 🌱 I’m currently exploring diff tech domains
+- 📫 Reach me at @Yadavutsav3 (twitter)
 
 https://utsav-yadav.vercel.app/
 
